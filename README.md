@@ -1,0 +1,1 @@
+# spring-security-jwt-h2-swagger
